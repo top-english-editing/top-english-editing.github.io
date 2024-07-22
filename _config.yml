@@ -1,12 +1,12 @@
 # Site settings
 title: "Top English Editing" 
 email: "stephens.claire@gmail.com"
-description: > # "Expert editor specializing in refining translated texts for natural, fluent, and error-free English."
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+description: "Expert editor specializing in refining translated texts for natural, fluent, and error-free English."
+baseurl: "# the subpath of your site, e.g. /blog/"
+url: "# the base hostname & protocol for your site"
 
  
-github_username:top-english-editing
+github_username:"top-english-editing"
 
 # Build settings
 markdown: kramdown
